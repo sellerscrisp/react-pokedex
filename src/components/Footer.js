@@ -6,7 +6,7 @@ const Footer = () => (
       <div className="content has-text-centered is-size-7">
         <p>
           <a
-            href="https://github.com/sellerscrisp/react-pokedex"
+            href="https://github.com/sellersss/react-pokedex"
             target="_blank"
             rel="noreferrer"
           >

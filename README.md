@@ -1,5 +1,5 @@
 ## React Pokedex
-Made with Bulma, React, Express, and PokeAPI.
+Made with Bulma, React, Express, and PokeAPI. [Live Demo](http://pokedex.crisp.pw/).
 
 ### Installation
 
